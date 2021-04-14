@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Trader Workstation
+Exec="/home/pfarelo/Jts/tws" -J-DjtsConfigDir="/home/pfarelo/Jts" %U
+Comment=Trader Workstation
+Icon=/home/pfarelo/Jts/.install4j/tws.png
+StartupWMClass=install4j-jclient-Launcher
